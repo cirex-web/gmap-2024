@@ -1,0 +1,10 @@
+Finished reading FASTA file -- total entries: 3
+Maximum coordinate: 40000
+Total label length: 3 + 3 separators
+Total annotation length: 80 + 3 separators
+Saw 0 distinct divisions/chromosomes
+Saw 3 distinct tags/types
+No divs/chromosomes provided, so storing as IIT version 1
+Writing IIT file header information...coordinates require 4 bytes each...done
+Processing null division/chromosome...sorting...writing...done (3 intervals)
+Writing IIT file footer information...done

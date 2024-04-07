@@ -1,0 +1,7 @@
+GMAP version 2024-02-22 called with args: /Users/work/Documents/SD_Projects/gmap-2024/src/gmap.arm -A -g /Users/work/Documents/SD_Projects/gmap-2024/tests/ss.chr17test /Users/work/Documents/SD_Projects/gmap-2024/tests/ss.her2
+Checking compiler assumptions for SSE2: 000041A7 10D63AF1 xor=10D67B56
+Checking compiler assumptions for SSE4.1: -89 -15 max=-15 => compiler sign extends
+Checking compiler options for SSE4.2: 000041A7 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.02 seconds (43.19 queries/sec)

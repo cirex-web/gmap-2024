@@ -1,0 +1,204 @@
+>BC000006 clone_id 99198 trimversion 12
+Paths (1):
+  Path 1: query 1..1208 (1208 bp) => genome 10,001..35,022 (25022 bp)
+    cDNA direction: sense
+    Genomic pos: 10,001..35,022 (+ strand)
+    Number of exons: 6
+    Coverage: 100.0 (query length: 1208 bp)
+    Trimmed coverage: 100.0 (trimmed length: 1208 bp, trimmed region: 1..1208)
+    Percent identity: 100.0 (1208 matches, 0 mismatches, 0 indels, 0 unknowns)
+    Translation: 87..998 (303 aa)
+    Amino acid changes: 
+
+Alignments:
+  Alignment for path 1:
+
+    10001-10183  (1-183)   100% ->   ...4443...  0.996, 1.000
+    14627-14755  (184-312)   100% ->   ...13385...  0.997, 0.999
+    28141-28296  (313-468)   100% ->   ...2184...  1.000, 0.998
+    30481-30665  (469-653)   100% -)   ...2601...  0.905, 0.985
+    33267-33347  (654-734)   100% ->   ...1201...  0.998, 0.984
+    34549-35022  (735-1208)   100%
+
+             0     .    :    .    :    .    :    .    :    .    :
+                                                                 
+         10001 AGAAGCCGAGCGGCGCAGAGGACGCCAGGGCGCGCGCCGCAGCCACCCAC
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+             1 AGAAGCCGAGCGGCGCAGAGGACGCCAGGGCGCGCGCCGCAGCCACCCAC
+                                                                 
+
+            50     .    :    .    :    .    :    .    :    .    :
+aa.g         1                                     M  A  R  G  K 
+         10051 CCTCCGGACCGCGGCAGCTGCTGACCCGCCATCGCCATGGCCCGCGGGAA
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+            51 CCTCCGGACCGCGGCAGCTGCTGACCCGCCATCGCCATGGCCCGCGGGAA
+aa.c         1                                     M  A  R  G  K 
+
+           100     .    :    .    :    .    :    .    :    .    :
+aa.g         6  A  K  E  E  G  S  W  K  K  F  I  W  N  S  E  K  K
+         10101 AGCCAAGGAGGAGGGCAGCTGGAAGAAATTCATCTGGAACTCAGAGAAGA
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+           101 AGCCAAGGAGGAGGGCAGCTGGAAGAAATTCATCTGGAACTCAGAGAAGA
+aa.c         6  A  K  E  E  G  S  W  K  K  F  I  W  N  S  E  K  K
+
+           150     .    :    .    :    .    :    .    :    .    :
+aa.g        23   E  F  L  G  R  T  G  G  S  W  F           K  I  
+         10151 AGGAGTTTCTGGGCAGGACCGGTGGCAGTTGGTGTA...CAGTTAAGATC
+               |||||||||||||||||||||||||||||||||>>>...>>>||||||||
+           151 AGGAGTTTCTGGGCAGGACCGGTGGCAGTTGGT  4443   TTAAGATC
+aa.c        23   E  F  L  G  R  T  G  G  S  W  F           K  I  
+
+           200     .    :    .    :    .    :    .    :    .    :
+aa.g        36 L  L  F  Y  V  I  F  Y  G  C  L  A  G  I  F  I  G 
+         14635 CTTCTATTCTACGTAATATTTTATGGCTGCCTGGCTGGCATCTTCATCGG
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+           192 CTTCTATTCTACGTAATATTTTATGGCTGCCTGGCTGGCATCTTCATCGG
+aa.c        36 L  L  F  Y  V  I  F  Y  G  C  L  A  G  I  F  I  G 
+
+           250     .    :    .    :    .    :    .    :    .    :
+aa.g        53  T  I  Q  V  M  L  L  T  I  S  E  F  K  P  T  Y  Q
+         14685 AACCATCCAAGTGATGCTGCTCACCATCAGTGAATTTAAGCCCACATATC
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+           242 AACCATCCAAGTGATGCTGCTCACCATCAGTGAATTTAAGCCCACATATC
+aa.c        53  T  I  Q  V  M  L  L  T  I  S  E  F  K  P  T  Y  Q
+
+           300     .    :    .    :    .    :    .    :    .    :
+aa.g        70   D  R  V  A  P  P  G           L  T  Q  I  P  Q  
+         14735 AGGACCGAGTGGCCCCGCCAGGTA...TAGGATTAACACAGATTCCTCAG
+               |||||||||||||||||||||>>>...>>>||||||||||||||||||||
+           292 AGGACCGAGTGGCCCCGCCAG  13385  GATTAACACAGATTCCTCAG
+aa.c        70   D  R  V  A  P  P  G           L  T  Q  I  P  Q  
+
+           350     .    :    .    :    .    :    .    :    .    :
+aa.g        83 I  Q  K  T  E  I  S  F  R  P  N  D  P  K  S  Y  E 
+         28161 ATCCAGAAGACTGAAATTTCCTTTCGTCCTAATGATCCCAAGAGCTATGA
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+           333 ATCCAGAAGACTGAAATTTCCTTTCGTCCTAATGATCCCAAGAGCTATGA
+aa.c        83 I  Q  K  T  E  I  S  F  R  P  N  D  P  K  S  Y  E 
+
+           400     .    :    .    :    .    :    .    :    .    :
+aa.g       100  A  Y  V  L  N  I  V  R  F  L  E  K  Y  K  D  S  A
+         28211 GGCATATGTACTGAACATAGTTAGGTTCCTGGAAAAGTACAAAGATTCAG
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+           383 GGCATATGTACTGAACATAGTTAGGTTCCTGGAAAAGTACAAAGATTCAG
+aa.c       100  A  Y  V  L  N  I  V  R  F  L  E  K  Y  K  D  S  A
+
+           450     .    :    .    :    .    :    .    :    .    :
+aa.g       117   Q  R  D  D  M  I  F  E  D  C  G  D           V  
+         28261 CCCAGAGGGATGACATGATTTTTGAAGATTGTGGCGGTA...TAGATGTG
+               ||||||||||||||||||||||||||||||||||||>>>...>>>|||||
+           433 CCCAGAGGGATGACATGATTTTTGAAGATTGTGGCG  2184   ATGTG
+aa.c       117   Q  R  D  D  M  I  F  E  D  C  G  D           V  
+
+           500     .    :    .    :    .    :    .    :    .    :
+aa.g       130 P  S  E  P  K  E  R  G  D  F  N  H  E  R  G  E  R 
+         30486 CCCAGTGAACCGAAAGAACGAGGAGACTTTAATCATGAACGAGGAGAGCG
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+           474 CCCAGTGAACCGAAAGAACGAGGAGACTTTAATCATGAACGAGGAGAGCG
+aa.c       130 P  S  E  P  K  E  R  G  D  F  N  H  E  R  G  E  R 
+
+           550     .    :    .    :    .    :    .    :    .    :
+aa.g       147  K  V  C  R  F  K  L  E  W  L  G  N  C  S  G  L  N
+         30536 AAAGGTCTGCAGATTCAAGCTTGAATGGCTGGGAAATTGCTCTGGATTAA
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+           524 AAAGGTCTGCAGATTCAAGCTTGAATGGCTGGGAAATTGCTCTGGATTAA
+aa.c       147  K  V  C  R  F  K  L  E  W  L  G  N  C  S  G  L  N
+
+           600     .    :    .    :    .    :    .    :    .    :
+aa.g       164   D  E  T  Y  G  Y  K  E  G  K  P  C  I  I  I  K  
+         30586 ATGATGAAACTTATGGCTACAAAGAGGGCAAACCGTGCATTATTATAAAG
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+           574 ATGATGAAACTTATGGCTACAAAGAGGGCAAACCGTGCATTATTATAAAG
+aa.c       164   D  E  T  Y  G  Y  K  E  G  K  P  C  I  I  I  K  
+
+           650     .    :    .    :    .    :    .    :    .    :
+aa.g       180 L  N  R  V  L  G  F  K  P  K           P  P  K  N 
+         30636 CTCAACCGAGTTCTAGGCTTCAAACCTAAGGCA...TAGCCTCCCAAGAA
+               ||||||||||||||||||||||||||||||)))...)))|||||||||||
+           624 CTCAACCGAGTTCTAGGCTTCAAACCTAAG  2601   CCTCCCAAGAA
+aa.c       180 L  N  R  V  L  G  F  K  P  K           P  P  K  N 
+
+           700     .    :    .    :    .    :    .    :    .    :
+aa.g       194  E  S  L  E  T  Y  P  V  M  K  Y  N  P  N  V  L  P
+         33278 TGAGTCCTTGGAGACTTACCCAGTGATGAAGTATAACCCAAATGTCCTTC
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+           665 TGAGTCCTTGGAGACTTACCCAGTGATGAAGTATAACCCAAATGTCCTTC
+aa.c       194  E  S  L  E  T  Y  P  V  M  K  Y  N  P  N  V  L  P
+
+           750     .    :    .    :    .    :    .    :    .    :
+aa.g       211   V  Q  C  T  G  K           R  D  E  D  K  D  K  
+         33328 CCGTTCAGTGCACTGGCAAGGTA...CAGCGAGATGAAGATAAGGATAAA
+               ||||||||||||||||||||>>>...>>>|||||||||||||||||||||
+           715 CCGTTCAGTGCACTGGCAAG  1201   CGAGATGAAGATAAGGATAAA
+aa.c       211   V  Q  C  T  G  K           R  D  E  D  K  D  K  
+
+           800     .    :    .    :    .    :    .    :    .    :
+aa.g       224 V  G  N  V  E  Y  F  G  L  G  N  S  P  G  F  P  L 
+         34570 GTTGGAAATGTGGAGTATTTTGGACTGGGCAACTCCCCTGGTTTTCCTCT
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+           756 GTTGGAAATGTGGAGTATTTTGGACTGGGCAACTCCCCTGGTTTTCCTCT
+aa.c       224 V  G  N  V  E  Y  F  G  L  G  N  S  P  G  F  P  L 
+
+           850     .    :    .    :    .    :    .    :    .    :
+aa.g       241  Q  Y  Y  P  Y  Y  G  K  L  L  Q  P  K  Y  L  Q  P
+         34620 GCAGTATTATCCGTACTATGGCAAACTCCTGCAGCCCAAATACCTGCAGC
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+           806 GCAGTATTATCCGTACTATGGCAAACTCCTGCAGCCCAAATACCTGCAGC
+aa.c       241  Q  Y  Y  P  Y  Y  G  K  L  L  Q  P  K  Y  L  Q  P
+
+           900     .    :    .    :    .    :    .    :    .    :
+aa.g       258   L  L  A  V  Q  F  T  N  L  T  M  D  T  E  I  R  
+         34670 CCCTGCTGGCCGTACAGTTCACCAATCTTACCATGGACACTGAAATTCGC
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+           856 CCCTGCTGGCCGTACAGTTCACCAATCTTACCATGGACACTGAAATTCGC
+aa.c       258   L  L  A  V  Q  F  T  N  L  T  M  D  T  E  I  R  
+
+           950     .    :    .    :    .    :    .    :    .    :
+aa.g       274 I  E  C  K  A  Y  G  E  N  I  G  Y  S  E  K  D  R 
+         34720 ATAGAGTGTAAGGCGTACGGTGAGAACATTGGGTACAGTGAGAAAGACCG
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+           906 ATAGAGTGTAAGGCGTACGGTGAGAACATTGGGTACAGTGAGAAAGACCG
+aa.c       274 I  E  C  K  A  Y  G  E  N  I  G  Y  S  E  K  D  R 
+
+          1000     .    :    .    :    .    :    .    :    .    :
+aa.g       291  F  Q  G  R  F  D  V  K  I  E  V  K  S  *         
+         34770 TTTTCAGGGACGTTTTGATGTAAAAATTGAAGTTAAGAGCTGATCACAAG
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+           956 TTTTCAGGGACGTTTTGATGTAAAAATTGAAGTTAAGAGCTGATCACAAG
+aa.c       291  F  Q  G  R  F  D  V  K  I  E  V  K  S  *         
+
+          1050     .    :    .    :    .    :    .    :    .    :
+                                                                 
+         34820 CACAAATCTTTCCCACTAGCCATTTAATAAGTTAAAAAAAGATACAAAAA
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+          1006 CACAAATCTTTCCCACTAGCCATTTAATAAGTTAAAAAAAGATACAAAAA
+                                                                 
+
+          1100     .    :    .    :    .    :    .    :    .    :
+                                                                 
+         34870 CAAAAACCTACTAGTCTTGAACAAACTGTCATACGTATGGGACCTACACT
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+          1056 CAAAAACCTACTAGTCTTGAACAAACTGTCATACGTATGGGACCTACACT
+                                                                 
+
+          1150     .    :    .    :    .    :    .    :    .    :
+                                                                 
+         34920 TAATCTATATGCTTTACACTAGCTTTCTGCATTTAATAGGTTAGAATGTA
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+          1106 TAATCTATATGCTTTACACTAGCTTTCTGCATTTAATAGGTTAGAATGTA
+                                                                 
+
+          1200     .    :    .    :    .    :    .    :    .    :
+                                                                 
+         34970 AATTAAAGTGTAGCAATAGCAACAAAATATTTATTCTACTGTAAATGACA
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+          1156 AATTAAAGTGTAGCAATAGCAACAAAATATTTATTCTACTGTAAATGACA
+                                                                 
+
+          1250    
+                  
+         35020 AAA
+               |||
+          1206 AAA
+                  
+
